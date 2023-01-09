@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a96efc4-6aa8-4992-b5cf-3f8abeaebe88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Common/CommonActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Common/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constants/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/listing/RealtListingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/realt_home/RealtHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchapartment/SearchApartmentTest.java" afterDir="false" />
+    <list default="true" id="0a96efc4-6aa8-4992-b5cf-3f8abeaebe88" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Common/CommonActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/CommonActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/realt_home/RealtHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/realt_home/RealtHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/garre/Downloads/gavroche.zip",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -116,6 +106,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673094903461</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1673190460555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673190460555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>

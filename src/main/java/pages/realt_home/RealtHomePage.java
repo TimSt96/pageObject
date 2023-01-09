@@ -1,5 +1,4 @@
 package pages.realt_home;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -19,7 +18,6 @@ public class RealtHomePage extends BasePage {
         driver.findElement(optionsToRooms).click();
         return this;
     }
-
     public RealtHomePage clikToFind() {
         WebElement btnFind = driver.findElement(findBtn);
         waitElementVisible(btnFind).click();

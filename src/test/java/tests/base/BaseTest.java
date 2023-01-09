@@ -18,15 +18,12 @@ public class BaseTest {
     protected RealtHomePage realtHomePage = new RealtHomePage(driver);
     protected RealtListingPage realtListingPage = new RealtListingPage(driver);
 
-
-
     @AfterTest
     public void clearCookieAndLocalStorage(){
         if (CLEAR_COOKIES_AND_STORAGE) {
             JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
             driver.manage().deleteAllCookies();
             javascriptExecutor.executeScript("window.sessionStorage.clear()");
-
         }
         }
         @AfterSuite (alwaysRun = true)
